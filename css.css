@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+}
+
+.lista{
+    display: inline-block;
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    background-color: black;
+    width: 100%;
+    color: #fff;
+    
+}
+
+.lista li {
+    font-size: 14px;
+    display: inline-block;
+    padding: 5px;
+    width: 11.4%;
+    
+    
+}
+
+.logo{
+    width: 25px;
+}
+
+a{
+    color:#fff;
+    text-decoration: none;
+    padding: 5px;
+    
+}
+
+a:hover{
+    opacity: .65;
+}
+
+.watch-serie{
+    height: auto;
+    margin: auto;
+    width: 100%;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    
+}
+
+.titulo{
+    width: 200px;
+    position: relative;
+    /* left: 55%; */
+    text-align: center;
+    margin: auto;
+    
+}
+
+h1{
+    font-size: 50px;
+    margin: 20px 5px 0px;
+    
+}
+
+h2{
+    margin: 0px;
+    
+}
+
+.logo-watch{
+    width: 30px;
+    margin: 5px;
+    padding: 2px;
+    vertical-align:text-bottom;
+    
+}
+
+.imagen-inicial{
+        height: 99vh;
+        
+    
+}
+
+.fotos{
+    list-style-type: none;
+    background-position: none;
+    margin-left: 0px;
+    padding: 0px;
+    list-style: none;
+    width: 100%;
+    
+}
+
+.fotos li {
+    width: 25%;
+     display: inline-block;
+    box-sizing: content-box;
+}
+
+.fotos li img{
+    width: 100%;
+    
+    
+    
+}
